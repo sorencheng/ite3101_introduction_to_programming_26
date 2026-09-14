@@ -1,1 +1,1 @@
-product = 15 * 
+product = 15 * 10
