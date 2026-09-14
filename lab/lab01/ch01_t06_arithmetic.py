@@ -1,2 +1,2 @@
 product = 15 * 10
-remainder = 
+remainder = 1398 %11
