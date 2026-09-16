@@ -1,4 +1,3 @@
 haiku ="""The old pond,
 A frog jumps in:
-Plop!
-', temp_locals"""
+Plop!temp_local"""
