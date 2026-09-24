@@ -1,4 +1,4 @@
-name = "  "
+name = " What is your name? "
 quest = " Happy "
 color = 38
 
