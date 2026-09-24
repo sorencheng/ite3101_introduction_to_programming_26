@@ -2,3 +2,4 @@
 
 my_string = "hi" 
 paint(str(my_string))
+
