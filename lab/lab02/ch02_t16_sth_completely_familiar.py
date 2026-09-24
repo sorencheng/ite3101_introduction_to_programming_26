@@ -1,3 +1,4 @@
 # Write your code below, starting on line 3!
 
-my_string = "hi"
+my_string = "hi" 
+paint   
