@@ -5,4 +5,5 @@ print(now)
 current_year = now.year
 current_month = now.month
 current_day = now.day
-print()
+print(current_month)
+print(current_)
