@@ -2,6 +2,9 @@ from datetime import datetime
 
 now = datetime.now()
 current_month = now.month
-current_day = n
+current_day = now.day
+current_year = now.year
+current_hour = now.hour
+current_
 
 print('%02d:%02d:%04d' % (now.hour, now.minute, now.second))
