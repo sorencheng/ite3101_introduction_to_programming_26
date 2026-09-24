@@ -4,4 +4,4 @@ now = datetime.now()
 current_year = now.year
 current_month = now.month
 current_day = now.day
-print('%02d-%-02d-%04d' % (now))
+print('%02d-%-02d-%04d' % (now.))
