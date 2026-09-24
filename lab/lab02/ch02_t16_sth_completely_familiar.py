@@ -2,3 +2,4 @@
 
 my_string = "hi" 
 print(str(my_string))
+print()
