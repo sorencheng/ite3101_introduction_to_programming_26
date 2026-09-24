@@ -1,4 +1,4 @@
-name = input("  "
+name = "  "
 quest = " Happy "
 color = 38
 
