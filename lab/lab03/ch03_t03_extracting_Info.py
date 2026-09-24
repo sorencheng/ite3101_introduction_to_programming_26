@@ -2,9 +2,9 @@ from datetime import datetime
 
 now = datetime.now()
 print(now)
-current_year = now.year
-current_month = now.month
-current_day = now.day
+current_year = now.year()
+current_month = now.month()
+current_day = now.day()
 print(current_month)
 print(current_year)
 print(current_day)
