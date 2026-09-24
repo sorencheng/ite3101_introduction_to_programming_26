@@ -1,5 +1,5 @@
-name = input(" What is your name? "
-quest = " Happy "
+name = input(" What is your name? ")
+quest = input("")
 color = 38
 
 # Uncomment the below 2 line of code!
