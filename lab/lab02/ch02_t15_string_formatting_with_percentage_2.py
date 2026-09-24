@@ -1,6 +1,6 @@
-name = input(" Cyrus ")
-quest = input(" Happy ")
-color = input( 38 )
+name = " Cyrus "
+quest = " Happy "
+color =  38 
 
 # Uncomment the below 2 line of code!
  print("Ah, so your name is %s, your quest is %s, "
