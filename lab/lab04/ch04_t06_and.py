@@ -1,6 +1,6 @@
 bool_one = False and False
 
-bool_two = 
+bool_two = False and True
 
 bool_three = None
 
