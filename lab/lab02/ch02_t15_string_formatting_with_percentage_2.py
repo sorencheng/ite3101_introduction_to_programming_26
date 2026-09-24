@@ -1,4 +1,4 @@
-name = " What is your name? "
+name = input()" What is your name? "
 quest = " Happy "
 color = 38
 
