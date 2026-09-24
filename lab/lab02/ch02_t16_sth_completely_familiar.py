@@ -1,5 +1,5 @@
 # Write your code below, starting on line 3!
 
 my_string = "hi" 
-paint(str(my_string))
+print(str(my_string))
 
