@@ -1,4 +1,4 @@
-name = "  "
+name = " Cyrus "
 quest = " Happy "
 color = 38
 
