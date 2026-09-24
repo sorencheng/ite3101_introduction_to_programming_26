@@ -6,4 +6,4 @@ bool_three = False or False
 
 bool_four = True or True
 
-bool_five = True or 
+bool_five = True or False
