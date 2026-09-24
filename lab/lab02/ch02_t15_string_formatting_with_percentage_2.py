@@ -1,6 +1,6 @@
 name = input(" Cyrus ")
 quest = input(" Happy ")
-color = input("What is your favorite color? ")
+color = input( 38 )
 
 # Uncomment the below 2 line of code!
  print("Ah, so your name is %s, your quest is %s, "
