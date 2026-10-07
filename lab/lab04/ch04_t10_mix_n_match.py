@@ -10,7 +10,7 @@ bool_two = (2 >= 2) or "Alpha" != "Bravo"
 bool_three = 
 
 # Make me true!
-bool_four = (2 > 2) or "Alpha" != "Bravo"
+bool_four = 
 
 # Make me true!
 bool_five = 
