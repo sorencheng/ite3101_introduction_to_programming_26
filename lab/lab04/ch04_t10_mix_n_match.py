@@ -13,4 +13,4 @@ bool_three = (2 < 2) and "Alpha" == "Bravo"
 bool_four = not 3 * 3 = 4 + 5 and 8 + 1 = 9
 
 # Make me true!
-bool_five = "hi" or "hello" == 
+bool_five = "hi" or "hello" == 55
