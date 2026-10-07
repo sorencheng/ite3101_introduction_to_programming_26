@@ -4,6 +4,6 @@ bool_two = not True
 
 bool_three = not True
 
-bool_four = None
+bool_four = not True
 
 bool_five = None
