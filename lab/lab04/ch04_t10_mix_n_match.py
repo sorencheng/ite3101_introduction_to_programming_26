@@ -10,7 +10,7 @@ bool_two = (2 >= 2) or "Alpha" != "Bravo"
 bool_three = (2 < 2) and "Alpha" == "Bravo"
 
 # Make me true!
-bool_four = not 3 * 3 > 4 + 8 and 120 %3 
+bool_four = not 3 * 3 > 4 + 8 and 120 % 3 == 0
 
 # Make me true!
 bool_five = "hi" == "hi" or "hello" == "hello"
