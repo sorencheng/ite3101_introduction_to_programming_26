@@ -1,4 +1,4 @@
 print('Welcome to the Pig Latin Translator!')
 
 # Start coding here!
-print('side_eff')
+print('side_effect')
