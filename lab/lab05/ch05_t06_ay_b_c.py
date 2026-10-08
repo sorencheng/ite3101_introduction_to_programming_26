@@ -1,1 +1,1 @@
-pygay
+input = pygay
