@@ -10,4 +10,5 @@ else:
 original = 'word'
 original =  original.lower()
 first_letter = original[0]
+second_letter = original[1]
 second_letter 
