@@ -4,6 +4,6 @@
 
 
 # Define the spam function above this line.
-spam()
+spam():
 """Prints 'eggs' to the console."""
 print('eggs')
