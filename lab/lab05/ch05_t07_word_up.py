@@ -8,5 +8,5 @@ else:
     print('empty')
 
 original = 'word'
-original = 
+original =  
 first_letter = 
