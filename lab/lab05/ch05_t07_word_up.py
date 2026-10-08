@@ -4,7 +4,7 @@ original = input('Enter a word:')
 
 if len(original) > 0 and original.isalpha():
     word = original.lower()
-first_letter = [0]
+first_letter = original[0]
 print(original)
 else:
     print('empty')
