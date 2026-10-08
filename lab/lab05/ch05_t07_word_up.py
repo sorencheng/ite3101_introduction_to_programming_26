@@ -7,4 +7,3 @@ if len(original) > 0 and original.isalpha():
 else:
     print('empty')
 
-word = 
