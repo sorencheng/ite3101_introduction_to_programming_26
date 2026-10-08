@@ -8,5 +8,5 @@ else:
     print('empty')
 
 word = "Cyrus"
-original = original.lower()
+word = word.lower()
 first_letter = original[0]
