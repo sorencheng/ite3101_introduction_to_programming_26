@@ -5,4 +5,4 @@
 
 # Define the spam function above this line.
 spam()
-"""Prints 'eggs"""
+"""Prints 'eggs'"""
