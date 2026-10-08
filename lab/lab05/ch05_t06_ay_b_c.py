@@ -1,1 +1,2 @@
 input = 'pyg'
+suffix
