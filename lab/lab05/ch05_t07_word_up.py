@@ -8,7 +8,5 @@ else:
     print('empty')
 
 original = 'word'
-original =  original.lower()
+original = original.lower()
 first_letter = original[0]
-second_letter = original[1]
-third_letter = original[2]
