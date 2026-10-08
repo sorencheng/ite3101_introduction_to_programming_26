@@ -9,7 +9,3 @@ first_letter = word[0]
 print(original)
 else:
     print('empty')
-
-word = "Cyrus"
-word = word.lower()
-first_letter = word[0]
