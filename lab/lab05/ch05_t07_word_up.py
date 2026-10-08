@@ -11,4 +11,4 @@ original = 'word'
 original =  original.lower()
 first_letter = original[0]
 second_letter = original[1]
-third_letter 
+third_letter = original[2]
