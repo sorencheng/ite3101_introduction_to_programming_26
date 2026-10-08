@@ -1,1 +1,1 @@
-input =  'Pig Latin'
+print()
