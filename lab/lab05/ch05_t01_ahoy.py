@@ -1,1 +1,1 @@
-input(pi)
+input(Pig Latin)
