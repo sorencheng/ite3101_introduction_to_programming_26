@@ -5,4 +5,5 @@
 
 # Define the spam function above this line.
 spam()
-"""Prints 'eggs' to the console"""
+"""Prints 'eggs' to the console."""
+
