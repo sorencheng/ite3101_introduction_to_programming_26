@@ -9,4 +9,4 @@ else:
 
 original = 'word'
 original =  original.lower()
-first_letter = 
+first_letter = original
