@@ -1,1 +1,1 @@
-input = Pig Latin
+input =  'Pig Latin
