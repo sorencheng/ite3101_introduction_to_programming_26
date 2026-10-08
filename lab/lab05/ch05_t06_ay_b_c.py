@@ -1,1 +1,1 @@
-input = ' pygay '
+input = ' ygpay '
