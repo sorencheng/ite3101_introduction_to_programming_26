@@ -8,3 +8,4 @@ else:
     print('empty')
 
 original = 'word'
+first_letter
