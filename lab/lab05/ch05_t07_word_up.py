@@ -7,6 +7,6 @@ if len(original) > 0 and original.isalpha():
 else:
     print('empty')
 
-original = 'word'
+original = 'Cyr'
 original = original.lower()
 first_letter = original[0]
