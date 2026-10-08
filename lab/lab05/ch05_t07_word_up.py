@@ -9,4 +9,4 @@ else:
 
 word = "Cyrus"
 word = word.lower()
-first_letter = original[0]
+first_letter = word[0]
