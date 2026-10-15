@@ -8,4 +8,5 @@ def square(n: float) -> float:
 # include the number 10 between the parentheses.
 
 def square(10):
-    sq
+    squared = 10 ** 2
+    
