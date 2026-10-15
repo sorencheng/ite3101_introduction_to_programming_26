@@ -4,7 +4,7 @@
 
 
 # Define the spam function above this line.
-def class ():
+def testFunctionDefined():
 
 
 """Prints 'Eggs!' to the console."""
