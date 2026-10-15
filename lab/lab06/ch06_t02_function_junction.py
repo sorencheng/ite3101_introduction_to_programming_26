@@ -8,3 +8,4 @@ def spam():
 
 
 print("Eggs!")
+"""Prints 'Eggs!' to the console."""
