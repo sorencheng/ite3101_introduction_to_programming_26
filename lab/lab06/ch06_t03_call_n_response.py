@@ -9,4 +9,4 @@ def square(n: float) -> float:
 
 def square(10):
     squared = 10 ** 2
-    
+    print()
