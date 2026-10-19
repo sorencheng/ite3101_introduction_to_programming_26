@@ -1,4 +1,4 @@
-def distance_from_zero()
+def distance_from_zero(d: Any)
 
 
 if type(d) == int or type(d) == float:
