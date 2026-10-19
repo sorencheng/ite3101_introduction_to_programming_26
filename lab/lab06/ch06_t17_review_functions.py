@@ -5,7 +5,7 @@ if s == "yes":
     return("shutting down")
 
 elif s == "no":
-return "shutdown aborted"
+return()"shutdown aborted"
 
 else:
 return "Sorry"
