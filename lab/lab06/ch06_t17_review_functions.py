@@ -2,10 +2,10 @@ def shut_down(s: str) -> str:
 
 
 if s == "yes":
-    return("shutting down")
+    return ("shutting down")
 
 elif s == "no":
-return("shutdown aborted")
+return ("shutdown aborted")
 
 else:
-return("Sorry")
+return ("Sorry")
