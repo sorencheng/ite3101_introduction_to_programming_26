@@ -1,1 +1,1 @@
-def distance_from_zero()-> bool:
+def distance_from_zero(hello world)-> bool:
