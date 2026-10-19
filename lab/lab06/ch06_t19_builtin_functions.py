@@ -5,7 +5,7 @@ def distance_from_zero(hello: Any) -> Any:
 
 
 if type(hello) == str:
-    return abs(hello)
+    return abs()
 
 else:
     return "Nope"
