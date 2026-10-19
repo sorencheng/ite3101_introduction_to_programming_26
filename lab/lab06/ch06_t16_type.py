@@ -3,4 +3,4 @@
 
 print(type(5))
 print(type(8.7))
-print(type)
+print(type('hello world'))
