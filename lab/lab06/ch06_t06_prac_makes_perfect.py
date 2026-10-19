@@ -1,2 +1,2 @@
-def cube(number:int):
-    if
+def cube(number:int) -> int:
+    if 
