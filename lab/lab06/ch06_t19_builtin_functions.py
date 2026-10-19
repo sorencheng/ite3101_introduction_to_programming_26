@@ -1,1 +1,1 @@
-def distance_from_zero(333)->
+def distance_from_zero(int)->
