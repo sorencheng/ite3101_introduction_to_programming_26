@@ -1,4 +1,4 @@
-def distance_from_zero(hello: str) -> str:
+def distance_from_zero(hello: any) -> str:
 
 
 if type(hello) == str:
