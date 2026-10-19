@@ -1,4 +1,4 @@
-def distance_from_zero(hello world) -> bool:
+def distance_from_zero(hello) -> bool:
 
 
 return type(hello world) == int or type(hello world) == float:
