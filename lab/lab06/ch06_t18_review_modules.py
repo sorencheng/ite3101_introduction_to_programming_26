@@ -1,2 +1,2 @@
 from math import sqrt
-print(sqrt(1368))
+print(sqrt(117))
