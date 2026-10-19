@@ -2,7 +2,7 @@ def shut_down(s: str) -> str:
 return s
 
 if s == "yes":
-     ("shutting down")
+    shut_down ("shutting down")
 
 elif s == "no":
 return ("shutdown aborted")
