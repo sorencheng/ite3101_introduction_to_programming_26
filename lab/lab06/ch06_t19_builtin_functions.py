@@ -1,10 +1,10 @@
 def distance_from_zero(hello) -> bool:
 
 
-return type(hello world) == int or type(hello world) == float:
+if type(hello) == int or type(hello) == float:
 
-if type(hello world) == int or type(hello world) == float:
-    return abs(hello world)
+if type(hello) == int or type(hello) == float:
+    return abs(hello)
 
 else:
     return "Nope"
