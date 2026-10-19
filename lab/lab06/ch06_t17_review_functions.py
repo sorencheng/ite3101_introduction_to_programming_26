@@ -1,5 +1,5 @@
 def shut_down(s: str) -> str:
-return
+return s
 
 if s == "yes":
     return ("shutting down")
