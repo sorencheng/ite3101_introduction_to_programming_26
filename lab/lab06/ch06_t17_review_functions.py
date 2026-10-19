@@ -6,3 +6,4 @@ if s == "yes":
 elif s == "no":
 return "shutdown aborted"
 else:
+return "Sorry"
