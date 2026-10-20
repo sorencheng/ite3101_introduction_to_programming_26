@@ -12,10 +12,11 @@ def plane_ride_cost(city: str) -> int:
     elif city == "Los Angeles":
         return 475
 
+
 def rental_car_cost(days: int) -> int:
     the car cost = 40 * days
     if days >= 7:
         the car cost -= 50
     elif days >= 3:
         the car cost -= 20
-        return the car cost
+    return the car cost
