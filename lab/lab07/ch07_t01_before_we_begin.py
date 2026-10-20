@@ -1,2 +1,2 @@
-def anwser():
+def answer():
     print(abs(-42))
