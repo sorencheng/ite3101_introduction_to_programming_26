@@ -1,2 +1,2 @@
 def anwser():
-    print()
+    print(a)
