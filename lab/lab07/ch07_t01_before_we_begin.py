@@ -1,2 +1,2 @@
 def anwser():
-    print(abs())
+    print(abs(-42))
