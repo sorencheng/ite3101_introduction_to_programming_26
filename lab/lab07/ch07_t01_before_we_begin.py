@@ -1,4 +1,4 @@
-def answer(): -> int
+def answer() -> int:
 
 
 print(abs(-42))
