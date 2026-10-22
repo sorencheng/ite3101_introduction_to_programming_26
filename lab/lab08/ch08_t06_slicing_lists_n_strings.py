@@ -7,4 +7,4 @@ cat = [:3]
 dog = [3:6]
 
 # From the seventh character to the end
-frog = None
+frog = []
