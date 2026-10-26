@@ -12,4 +12,4 @@ inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 inventory['pouch'].sort()
 
 # Your code here
-pocket = {'seashell', ''}
+pocket = {'seashell', 'strange berry', 'lint'}
