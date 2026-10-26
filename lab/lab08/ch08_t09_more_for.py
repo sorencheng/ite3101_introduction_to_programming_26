@@ -5,4 +5,4 @@ square_list = []
 for number in start_list:
     square_list.append(number) = start_list(2 ** number)
     square_list.sort()
-print(square_list)
+    print(square_list)
