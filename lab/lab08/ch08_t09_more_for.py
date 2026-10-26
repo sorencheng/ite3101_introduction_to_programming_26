@@ -3,5 +3,5 @@ square_list = []
 
 # Your code here!
 for start_list in start_list :
-square_list.sort()
+square_list.append
 print(square_list)
