@@ -1,2 +1,3 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
-for haha in names
+for haha in names:
+    
