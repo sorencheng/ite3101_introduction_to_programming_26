@@ -7,4 +7,4 @@ webster = {
 
 # Add your code below!
 for hihi in webster:
-    print(webster)
+    print(webster[hihi])
