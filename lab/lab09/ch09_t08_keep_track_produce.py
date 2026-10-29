@@ -12,5 +12,5 @@ stock = {
 }
 
 for key in prices:
-    print ("banana": 4 % prices[4])
+    print ( % prices[4])
     print ("prices: banana" % prices[4])
