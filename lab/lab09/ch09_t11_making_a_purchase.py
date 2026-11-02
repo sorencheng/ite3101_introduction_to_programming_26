@@ -20,7 +20,7 @@ total = 0
 
 def compute_bill(food):
     for price in food:
-        total += stock[]
+        total += stock
     return total
 
 
