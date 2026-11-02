@@ -15,10 +15,8 @@ prices = {
 }
 
 # Write your code below!
-total = 0
-
-
 def compute_bill(food):
+    total = 0
     for price in food:
         total += stock
     return total
