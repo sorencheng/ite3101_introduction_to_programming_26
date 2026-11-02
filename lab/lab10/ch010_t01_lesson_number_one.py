@@ -5,3 +5,4 @@ lloyd = {
     "tests": []
 }
 
+alice = {}
