@@ -20,3 +20,4 @@ def compute_bill(food):
     for price in food:
         total += price
     return total
+print(total)
