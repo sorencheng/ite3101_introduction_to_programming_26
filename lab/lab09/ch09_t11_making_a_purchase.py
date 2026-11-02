@@ -18,9 +18,12 @@ prices = {
 }
 
 # Write your code below!
-def compute_bill(food: List[str])     total = 0
-    for price in food:
-        total += stock
+def compute_bill(food: List[str])     
+total = 0
+    for item in food:
+        if item in stock and stock[item] > 0:
+            total += prices[item]
+            stock[item] -= 1
     return total
 
 
