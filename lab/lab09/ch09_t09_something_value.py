@@ -17,4 +17,5 @@ for key in prices:
     print("stock: %s" % stock[key])
 
 def total = 0:
-for dictionary in 
+for dictionary in prices:
+    
