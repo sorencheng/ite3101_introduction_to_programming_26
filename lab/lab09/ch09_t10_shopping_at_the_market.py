@@ -1,5 +1,5 @@
 groceries = {
-    "banana" ,
-    "orange" ,
+    "banana",
+    "orange",
     "apple",
 }
