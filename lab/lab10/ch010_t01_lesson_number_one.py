@@ -5,4 +5,10 @@ lloyd = {
     "tests": []
 }
 
-alice = {}
+alice = {
+    "name": "Alice",
+    "homework": [],
+    "quizzes": [],
+    "tests": []
+}
+
