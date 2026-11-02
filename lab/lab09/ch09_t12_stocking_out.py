@@ -24,3 +24,4 @@ def compute_bill(food: List[str]) -> float:
         total += prices[item]
     return total
 if total += prices[item]:
+    
