@@ -22,3 +22,8 @@ print(lloyd["name"])
 print(lloyd["homework"])
 print(lloyd["quizzes"])
 print(lloyd["tests"])
+
+print(alice["name"])
+print(alice["homework"])
+print(alice["quizzes"])
+print(alice["tests"])
