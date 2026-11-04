@@ -18,4 +18,3 @@ tyler = {
 }
 
 # Add your function below!
-average = 
