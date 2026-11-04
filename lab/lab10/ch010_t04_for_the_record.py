@@ -28,7 +28,7 @@ print(alice["homework"])
 print(alice["quizzes"])
 print(alice["tests"])
 
-print(lloyd["name"])
+print(["name"])
 print(lloyd["homework"])
 print(lloyd["quizzes"])
 print(lloyd["tests"])
