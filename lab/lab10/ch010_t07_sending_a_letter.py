@@ -53,4 +53,4 @@ def get_letter_grade(score:List[str])-> str:
     else:
          return "F"
 print(get_letter_grade)
-    return get_average(lloyd)
+return get_average(lloyd)
