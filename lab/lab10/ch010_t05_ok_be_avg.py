@@ -20,7 +20,7 @@ tyler = {
 # Add your function below!
 
 
-def average(numbers:List):-> int
+def average(numbers:List):-> int :
     total = sum(numbers)
     total = float(total)
     total / len(numbers) = total
