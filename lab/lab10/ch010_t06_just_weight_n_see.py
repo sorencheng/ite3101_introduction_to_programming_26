@@ -28,4 +28,4 @@ def average(numbers: List[float]) -> float:
 def get_average(lloyd) -> int:
     homework = lloyd["homework"]
     quizzes = lloyd["quizzes"]
-    
+    tests
