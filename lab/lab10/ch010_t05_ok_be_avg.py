@@ -28,4 +28,4 @@ def average(numbers: List[float]) -> float:
     return total / len(numbers)
 
 
-print(total)
+print(numbers)
