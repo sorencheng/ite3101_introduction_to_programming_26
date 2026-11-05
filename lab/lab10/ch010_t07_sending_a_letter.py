@@ -46,4 +46,5 @@ def get_letter_grade(score:List[str])-> str:
         return "A"
     elif score >= 80:
         return "B"
-    
+    elif score >= 80:
+            return "B"
