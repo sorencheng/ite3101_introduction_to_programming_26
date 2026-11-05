@@ -30,4 +30,4 @@ def get_average(lloyd) -> int:
     quizzes = lloyd["quizzes"]
     tests= lloyd["tests"]
 
-return
+return 
