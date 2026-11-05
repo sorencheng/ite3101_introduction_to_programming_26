@@ -21,6 +21,6 @@ tyler = {
 def average(numbers):
     total = sum(numbers)
     total = float(total)
-    total / len(numbers)
+    total / len(numbers) = total
 print()
     
