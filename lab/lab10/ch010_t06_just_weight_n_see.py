@@ -29,4 +29,4 @@ def get_average(lloyd) -> int:
     homework = lloyd["homework"]
     quizzes = lloyd["quizzes"]
     tests= lloyd["tests"]
-    
+
