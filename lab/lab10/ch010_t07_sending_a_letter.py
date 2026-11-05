@@ -52,3 +52,5 @@ def get_letter_grade(score:List[str])-> str:
             return "D"
     else:
          return "F"
+
+print
