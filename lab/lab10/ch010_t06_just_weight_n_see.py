@@ -31,4 +31,4 @@ def get_average(lloyd) -> int:
     homework = lloyd["homework"]
     quizzes = lloyd["quizzes"]
     tests = lloyd["tests"]
-    return 0.1 * average(get_average["homework"]) + 0.3 * average(get_average["quizzes"]) + 0.6 * average(get_average["tests"])
+    return 0.1 * average(lloyd["homework"]) + 0.3 * average(get_average["quizzes"]) + 0.6 * average(get_average["tests"])
