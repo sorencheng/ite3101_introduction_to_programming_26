@@ -29,4 +29,5 @@ def average(numbers: List[float]) -> float:
 
 def average(numbers):
     total = sum(numbers)
-    total = 
+    total = float(total)
+    
