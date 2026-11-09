@@ -1,4 +1,4 @@
-num = 1
+num = 
 
 while False:  # Fill in the condition
     pass
