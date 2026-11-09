@@ -1,7 +1,7 @@
 num = 1
 
 while num < 11:  # Fill in the condition
-    num ** 2
+    print(num ** 2)
     num += 1
 # Print num squared
 # Increment num (make sure to do this!)
