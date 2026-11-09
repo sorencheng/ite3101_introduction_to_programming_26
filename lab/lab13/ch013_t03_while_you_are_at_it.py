@@ -1,4 +1,4 @@
-num = 
+num = ** 2
 
 while False:  # Fill in the condition
     pass
