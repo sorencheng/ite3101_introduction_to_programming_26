@@ -1,6 +1,6 @@
 hobbies = []
 # Add your code below!
-for loob in range(3):
-    hobby = 'hi'
+for loop in range(3):
+    hobby = input("Enter a hobby: ")
     hobbies.append(hobby)
 print(hobbies)
