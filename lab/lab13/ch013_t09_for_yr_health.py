@@ -1,4 +1,4 @@
-print("Counting...")
+print("Count")
 
 for i in range(0 - 19):
     print(i)
