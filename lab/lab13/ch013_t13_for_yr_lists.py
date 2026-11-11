@@ -7,4 +7,4 @@ for num in numbers:
 
 # Add your loop below!
 for haha in numbers:
-    print(haha **)
+    print(haha ** 2)
