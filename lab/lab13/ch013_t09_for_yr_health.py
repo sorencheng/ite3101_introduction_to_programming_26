@@ -1,4 +1,4 @@
 print("Counting...")
 
-for i in range(18):
+for i in range(0 - ):
     print(i)
