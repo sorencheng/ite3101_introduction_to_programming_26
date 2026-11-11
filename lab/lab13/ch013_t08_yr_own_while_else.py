@@ -1,6 +1,7 @@
 from random import randint
 
 # Generates a number from 1 through 10 inclusive
+
 while guesses_left >= 0:
     random_number = randint(1, 10)
     print(random_number)
