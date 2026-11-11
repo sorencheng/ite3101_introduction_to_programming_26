@@ -6,7 +6,7 @@ while guesses_left >= 0:
     random_number = randint(1, 10)
     print(random_number)
     if random_number == 5:
-        print("")
+        print("You ")
 
 guesses_left = 3
 # Start your game!
