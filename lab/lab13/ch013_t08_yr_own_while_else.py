@@ -15,4 +15,4 @@ while guesses_left > 0:
     count -= 1
 
 else:
-    print()
+    print("You lose.")
