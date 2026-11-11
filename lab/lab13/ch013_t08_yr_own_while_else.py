@@ -14,3 +14,5 @@ while guesses_left > 0:
         break
     count -= 1
 
+else:
+    print()
