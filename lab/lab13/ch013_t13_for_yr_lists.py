@@ -6,4 +6,5 @@ for num in numbers:
     print(num)
 
 # Add your loop below!
-for haha in 
+for haha in numbers:
+    print(haha * haha)
