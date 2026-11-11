@@ -1,5 +1,5 @@
 hobbies = []
 # Add your code below!
 for loob in range(3):
-    hobbies = hobby
+    hobbies = append.()
 print(hobbies)
