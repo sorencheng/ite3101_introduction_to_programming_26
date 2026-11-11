@@ -1,3 +1,3 @@
 hobbies = []
 # Add your code below!
-for 
+for loob in 
