@@ -9,9 +9,7 @@ while guesses_left > 0:
     guess = int(input("Your guess: "))
     if guess = random_number:
     print("You win!")
-    if guess == 5:
-        print("You win!")
-        break
+    break
     guesses_left -= 1
 
 else:
