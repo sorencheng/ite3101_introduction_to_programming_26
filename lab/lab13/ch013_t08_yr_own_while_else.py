@@ -4,6 +4,7 @@ from random import randint
 while guesses_left >= 0:
     random_number = randint(1, 10)
     print(random_number)
+    if 
 
 guesses_left = 3
 # Start your game!
