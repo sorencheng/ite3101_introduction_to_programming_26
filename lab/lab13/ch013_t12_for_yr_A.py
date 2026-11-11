@@ -1,7 +1,7 @@
 phrase = "A bird in the hand..."
 
 # Add your for loop
-for J in phrase:
+for char in phrase:
     if 
 
 # Don't delete this print statement!
