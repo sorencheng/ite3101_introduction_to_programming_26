@@ -9,4 +9,4 @@ while guesses_left > 0:
     guess = int(input("Your guess: "))
     guess = random_number
     print(guess)
-    if guesss 
+    if guesss == 5
