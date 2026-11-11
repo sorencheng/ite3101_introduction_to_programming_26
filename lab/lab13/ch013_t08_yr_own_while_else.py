@@ -12,7 +12,7 @@ while guesses_left > 0:
     if guesss == 5:
         print("You win!")
         break
-    count -= 1
+    guesses_left -= 1
 
 else:
     print("You lose.")
