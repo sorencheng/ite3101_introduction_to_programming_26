@@ -1,3 +1,4 @@
 list = [0, 1, 2, 'End']
 
-for 
+for l in list:
+    if 
