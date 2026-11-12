@@ -4,4 +4,5 @@ str = 'End'
 for i, s  in zip(int, str):
     if i True:
         print(i)
-    else
+    else:
+        print(s)
