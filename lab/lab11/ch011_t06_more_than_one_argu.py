@@ -3,7 +3,7 @@ n = 13
 # Add add_function here!
 
 
-def add_function -> int:
+def add_function -> str:
     m + n
 
 # print(add_function(m, n))
