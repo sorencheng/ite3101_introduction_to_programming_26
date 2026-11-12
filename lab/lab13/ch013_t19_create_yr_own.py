@@ -1,6 +1,6 @@
 int = [0, 1, 2, 'End']
 
-for i, s in zip(int, str):
+for i in int:
     if i == True:
         print(i)
     else:
