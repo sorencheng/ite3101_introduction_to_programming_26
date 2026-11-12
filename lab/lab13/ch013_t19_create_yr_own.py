@@ -4,4 +4,4 @@ for i in int:
     if i == int:
         print(i)
     else:
-        print(s)
+        print(str)
