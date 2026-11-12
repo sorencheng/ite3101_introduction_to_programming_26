@@ -1,4 +1,5 @@
-int = [0, 1, 2, 'End']
+int = [0, 1, 2]
+str = 
 
 for l in list:
     if 
