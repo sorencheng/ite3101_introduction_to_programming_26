@@ -1,5 +1,5 @@
 int = [0, 1, 2]
-str = []
+str = [End]
 
 for l in list:
     if 
