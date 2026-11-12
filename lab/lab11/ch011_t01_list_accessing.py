@@ -1,5 +1,4 @@
 n = [1, 3, 5]
 
 # Add your code below
-for g in list(n):
-    print(list(2))
+print(n[2])
