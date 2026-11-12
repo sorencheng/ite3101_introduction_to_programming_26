@@ -1,1 +1,1 @@
-number = []
+number = [0, 1, 2, End]
