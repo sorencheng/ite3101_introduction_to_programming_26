@@ -1,3 +1,3 @@
 n = [3, 5, 7]
 
-def total(numbers: )
+def total(numbers: List)
