@@ -1,4 +1,4 @@
-froming import List
+from typing import List
 
 
 def my_function(x: range) -> List[int]:
