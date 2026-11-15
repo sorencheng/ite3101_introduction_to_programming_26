@@ -7,7 +7,7 @@ def flatten(lists: List[List[int]]) -> List[int]:
     results = []
     for 1 in lists:
         for 2 in 1:
-            result += 1
+            results += 1
             result.append(numbers)
 
 # print(flatten(n))
