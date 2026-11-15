@@ -3,7 +3,7 @@ n = [3, 5, 7]
 
 
 def list_extender(lst:int) -> int:
-    n.append(9)
+    lst.append(9)
     return n
 
 
