@@ -2,7 +2,7 @@ n = [3, 5, 7]
 # Add your function here
 
 
-def list_extender(lst:int): ->int
+def list_extender(lst:int) -> int:
     n.append(9)
     return n
 
