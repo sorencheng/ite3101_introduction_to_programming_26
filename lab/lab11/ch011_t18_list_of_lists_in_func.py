@@ -7,6 +7,6 @@ def flatten(lists: List[List[int]]) -> List[int]:
     results = []
     for 1 in lists:
         for 2 in 1:
-            results.append()
+            results.append(2)
 
 # print(flatten(n))
