@@ -1,3 +1,4 @@
 board = []
 
-for 
+for b in range(5):
+    
