@@ -5,6 +5,6 @@ n = [3, 5, 7]
 
 def total(numbers: List[int]) -> int:
     result = 0
-    for number in range(len(numbers)):
-        
-        return result
+    for i in range(len(numbers)):
+        result += number
+    return result
