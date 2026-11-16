@@ -32,7 +32,8 @@ guess_col = int(input("Guess Col: "))
 # Write your code below!
 if guess_row == ship_row and guess_col == ship_col:
     print("Congratulations! You sank my battleship!")
-elif board[guess_row][guess_col] == "X":
+elif 
+board[guess_row][guess_col] == "X":
     print("You guessed that one already.")
 
 else:
