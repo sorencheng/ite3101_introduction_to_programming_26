@@ -35,5 +35,5 @@ if guess_row == ship_row and guess_col == ship_col:
 else:
     print("You missed my battleship!")
     input(guess_row) = "X"
-    guess_col = "X"
+    input(guess_col) = "X"
     print_board(board)
