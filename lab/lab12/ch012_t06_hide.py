@@ -22,4 +22,4 @@ def random_col(board_in: List[List[str]]) -> int:
     return randint(0, len(board_in) - 1)
 
 
-print(random_row(board_in))
+print(random_row(board_in=))
