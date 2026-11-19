@@ -1,1 +1,1 @@
-def is_even(x: in)-> int:
+def is_even(x: int)-> float:
