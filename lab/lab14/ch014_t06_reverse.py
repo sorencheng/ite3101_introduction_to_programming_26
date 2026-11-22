@@ -3,5 +3,5 @@ def reverse(text: str) -> str:
     i = len(text) - 1
     while length >= 0:
         word += text[length]
-        length -= 1
+        i -= 1
     return word
