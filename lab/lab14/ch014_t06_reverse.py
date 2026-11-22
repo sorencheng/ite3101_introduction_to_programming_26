@@ -1,6 +1,6 @@
 def reverse(test:str)-> str:
     word = ""
-    length = len(text) -1
+    i = len(text) -1
     while length >=0:
         word = word + text[length]
         length -=1
