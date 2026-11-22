@@ -1,4 +1,4 @@
-def reverse(test:str)-> str:
+def reverse(text:str)-> str:
     word = ""
     i = len(text) -1
     while length >=0:
