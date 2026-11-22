@@ -1,2 +1,1 @@
-def purify(seq:List[int])->List[int:
-                                ]
+def purify(seq:List[int])->List[int:]
